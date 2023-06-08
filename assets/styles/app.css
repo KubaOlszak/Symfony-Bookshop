@@ -1,0 +1,21 @@
+main {
+    width: 70vw;
+    margin: 10px auto;
+}
+
+.table-container {
+    width: 100%;
+}
+
+table {
+    width: 100%;
+}
+
+td {
+    padding-left: 8px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-spacing: 20px;
+    border-top: 1px solid darkgray;
+    border-bottom: 1px solid darkgray;
+}
